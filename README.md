@@ -6,3 +6,5 @@ commit 0
 my-commit ++
 
 his-commit
+
+conflict-commit
